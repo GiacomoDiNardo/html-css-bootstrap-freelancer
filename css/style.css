@@ -1,0 +1,24 @@
+.bg-head-foot {
+    background-color: #2C3E50;
+}
+
+.bg-green {
+    background-color: #1ABC9C;
+}
+
+.bg-blue {
+    background-color: #3A546D;
+}
+
+.color-white {
+    color: white;
+}
+
+.jumbotron {
+    text-align: center;
+}
+
+.jumbo-img {
+    max-width: 250px;
+}
+
