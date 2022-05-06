@@ -22,3 +22,28 @@
     max-width: 250px;
 }
 
+.no-border {
+    border: none;
+}
+
+.img-grid {
+    border-radius: 10px;
+}
+
+.horizontal-rule {
+    align-items: center;
+    justify-content: center;
+}
+
+.rule {
+    width: 100px;
+    height: 5px;
+    border-radius: 20px;
+    background-color: white;
+}
+
+.star {
+    width: 30px;
+    align-self: center;
+    margin: 0 1.5rem;
+}
