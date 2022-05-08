@@ -18,6 +18,11 @@
     color: #1ABC9C;
 }
 
+.header-link a {
+    padding-left: 1rem;
+    font-weight: 600;
+}
+
 .jumbotron {
     text-align: center;
 }
