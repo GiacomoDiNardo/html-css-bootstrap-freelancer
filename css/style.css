@@ -18,6 +18,10 @@
     color: #1ABC9C;
 }
 
+.padding-x {
+    padding: 0 5rem;
+}
+
 .header-link a {
     padding-left: 1rem;
     font-weight: 600;
