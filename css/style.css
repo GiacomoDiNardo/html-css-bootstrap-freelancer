@@ -14,6 +14,10 @@
     color: white;
 }
 
+.color-green {
+    color: #1ABC9C;
+}
+
 .jumbotron {
     text-align: center;
 }
@@ -33,12 +37,17 @@
 .horizontal-rule {
     align-items: center;
     justify-content: center;
+    padding: 1.5rem 0;
 }
 
 .rule {
     width: 100px;
     height: 5px;
     border-radius: 20px;
+    background-color: black;
+}
+
+.rule-white {
     background-color: white;
 }
 
@@ -46,4 +55,33 @@
     width: 30px;
     align-self: center;
     margin: 0 1.5rem;
+}
+
+.star-white {
+    filter: invert(1);
+}
+
+.btn svg {
+    width: 20px;
+    vertical-align: baseline;
+    filter: invert(1);
+}
+
+.line-break {
+    border-bottom: 1px solid rgba(0,0,0,.125);
+}
+
+.circle {
+    width: 50px;
+    height: 50px;
+    padding: 15px;
+    border: 1px solid white;
+    border-radius: 50%;
+}
+
+.circle svg {
+    width: 100%;
+    height: 100%;
+    vertical-align: baseline;
+    filter: invert(1);
 }
