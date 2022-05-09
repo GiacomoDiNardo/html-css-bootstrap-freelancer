@@ -94,3 +94,15 @@
     vertical-align: baseline;
     filter: invert(1);
 }
+
+.my-form-box {
+    border: none;
+    border-radius: 0;
+    border-bottom: 1px solid #ced4da;
+    width: 100%;
+    text-align: start;
+}
+
+#textarea {
+    height: 100%;
+}
